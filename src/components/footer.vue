@@ -18,7 +18,7 @@ export default {
     .page-footer{
         display: grid;
         justify-items: center;
-        grid-template-columns: repeat(5 1fr);
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     }
 
 </style>
